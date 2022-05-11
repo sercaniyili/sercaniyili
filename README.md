@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **.Net Core, JavaScript, MsSQL, EntityFramework**
 
-- 📫 How to reach me **sercaniyili@gmail.com**
+- 📫 You can reach me **sercaniyili@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
